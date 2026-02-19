@@ -27,7 +27,7 @@
 * **Infrastructure:** Implemented containerized environments using **Docker** and **Docker Compose**, ensuring 100% environment consistency across development and production.
 * **Database:** Designed complex ERD schemas and optimized PostgreSQL/MySQL performance for high-traffic marketplace applications.
 
-### PDP Junior (May 2025 - Present)
+### PDP Junior (May 2025 - August 2025)
 **Assistant Mentor**
 * Teaching Python, OOP, and automation principles to the next generation of engineers.
 
