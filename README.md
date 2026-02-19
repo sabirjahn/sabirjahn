@@ -50,8 +50,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Sobirjon's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SobirjonAbdumajid&show_icons=true&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SobirjonAbdumajid&layout=compact&theme=dark&hide_border=false)
+![Sobirjon's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sabirjahn&show_icons=true&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sabirjahn&layout=compact&theme=dark&hide_border=false)
 
 ---
 
@@ -59,4 +59,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobirjon-abdumajidov/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Sobirjon_Abdumajidov)
 📧 [sobirjonabdumajid@gmail.com](mailto:sobirjonabdumajid@gmail.com) | 📞 +998 88 543 0305 | +7 747 571 0371
 
-[![](https://visitcount.itsvg.in/api?id=SobirjonAbdumajid&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sabirjahn&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
